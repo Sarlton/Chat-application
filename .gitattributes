@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+Chat-application-main.zip filter=lfs diff=lfs merge=lfs -text
